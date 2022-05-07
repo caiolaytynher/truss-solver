@@ -1,0 +1,11 @@
+{
+  "stringOfNames": "F1, F2, F3, H1, V1, V2",
+  "expressions": [
+    "-F1*cos30 + F3*cos60",
+    "-F1*sin30 + -F3*sin60 + 1000",
+    "F2 + F1*cos30 + H1",
+    "F1*cos60 + V1",
+    "-F2 + -F3*cos60",
+    "F3*cos30 + V2"
+  ]
+}
