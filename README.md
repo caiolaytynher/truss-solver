@@ -24,6 +24,8 @@ obey in this step.
    - You don't need to specify when the scalar is one;
    - Any number will be summed up;
    - Any force left over becomes zero.
+7. You need to write the expression as if it's equal to zero but you cannot write
+   the equals to zero.
 
 ## After run
 
